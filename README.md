@@ -1,4 +1,4 @@
-# Random_Number_Guessing_Game
+# Random Number Guessing Game
 I made Random number guessing game using JavaScript
 <h2>Introduction</h2>
 I made Random Number Guessing game. This program has functions with (type:UTF-8). 
