@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Using JavaScript</title>
+    <link href="css.css" rel="stylesheet" type="text/css">
+  </head>
+
+  <body>
+    <h1>Random Number Guessing Game</h1><br>
+    <h3>Let's try to guess my number with hint.</h3>
+    <p>The number is randomly picked.</p>
+    <p>You have only 10 time chances to guess the number.</p>
+    <p>I will let you know how high or low your number is.</p>
+
+    <div class="form">
+      <label for="guessField">Which number is in your mind: </label>
+      <input type="text" id="guessField" class="guessField">
+      <input type="submit" value="Try it" class="guessSubmit">
+    </div>
+
+    <div class="resultParas">
+      <p class="guesses"></p>
+      <p class="lastResult"></p>
+      <p class="lowOrHi"></p>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
