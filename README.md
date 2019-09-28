@@ -9,3 +9,6 @@ I made Random Number Guessing game. This program has functions with (type:UTF-8)
 * Chrome<br>
 
 <h2>Explenation </h2>
+
+<h2> how it works</h2>
+<img src="https://postfiles.pstatic.net/MjAxOTA5MjhfMzcg/MDAxNTY5NjM5NzEyNDM3.y1kk8v5zjQd7CXbef--0ohL1g-oiwRl4xldTpVaXiwUg.WQvuzasKgjEnaudAgKyqQ04PQ1NFTe0ZG5UaDgf3NIYg.PNG.katejuyeon_/a1.png?type=w966">
